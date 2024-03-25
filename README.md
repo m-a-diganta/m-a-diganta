@@ -3,7 +3,7 @@
 
 - 🔭 Former Student Tutor at **BRAC University**
 
-- 🔭 Former Co-Founder at [Gameqart](https://www.facebook.com/GameQart)
+- 🔭 Co-Founder at [Gameqart](https://www.facebook.com/GameQart)
 
 - 🌱 Currently learning **JavaScript, React**
 
