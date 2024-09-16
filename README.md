@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M. A. Diganta</h1>
 <h3 align="center">passionate BSc graduate in Computer Science and Engineering from BRAC University, committed to continuous learning, collaboration, and eventual mentorship.</h3>
 
-- 🔭 Former Software Engineer (Intern) at **Dream71 Bangladesh Ltd**
+- 🔭 Former Software Engineer (Intern) at [Dream71 Bangladesh Ltd](https://dream71.com/) 
   
 - 🔭 Former Student Tutor at **BRAC University**
 
