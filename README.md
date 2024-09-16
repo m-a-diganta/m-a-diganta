@@ -2,7 +2,7 @@
 <h3 align="center">passionate BSc graduate in Computer Science and Engineering from BRAC University, committed to continuous learning, collaboration, and eventual mentorship.</h3>
 
 - 🔭 Former Software Engineer (Intern) at **Dream71 Bangladesh Ltd**
-- 
+  
 - 🔭 Former Student Tutor at **BRAC University**
 
 - 🔭 Co-Founder at [Gameqart](https://www.facebook.com/GameQart)
