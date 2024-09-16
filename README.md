@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Alfessani Diganta</h1>
-<h3 align="center">Recent BSc graduate in Computer Science and Engineering from BRAC University, committed to continuous learning, collaboration, and eventual mentorship.</h3>
+<h1 align="center">Hi 👋, I'm M. A. Diganta</h1>
+<h3 align="center">passionate BSc graduate in Computer Science and Engineering from BRAC University, committed to continuous learning, collaboration, and eventual mentorship.</h3>
 
+- 🔭 Former Software Engineer (Intern) at **Dream71 Bangladesh Ltd**
+- 
 - 🔭 Former Student Tutor at **BRAC University**
 
 - 🔭 Co-Founder at [Gameqart](https://www.facebook.com/GameQart)
 
-- 🌱 Currently learning **JavaScript, React**
+- 🌱 Currently learning **Vue.js and NUXT Framework**
 
-- 📫 How to reach me **aldiganta716@gmail.com**
+- 📫 How to reach me **m.a.diganta01@gmail.com | aldiganta716@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
